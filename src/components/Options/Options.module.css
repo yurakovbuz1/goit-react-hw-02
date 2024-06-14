@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  gap: 5px;
+}
+
+.button {
+  background-color: rgb(234, 233, 233);
+  border: 1.5px solid grey;
+  color: black;
+  border-radius: 5px;
+}
